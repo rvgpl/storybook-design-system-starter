@@ -4,6 +4,7 @@ Storybook setup for design system docs using addons and Styled Components.
 
 Uses styled-components and polished
 
+--- 
 Storybook features that are supported
  - Theme Switching (`@storybook/addon-contexts`)
  - Backgrounds for component playground switch (`@storybook/addon-backgrounds`)
